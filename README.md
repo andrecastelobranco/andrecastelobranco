@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @andrecastelobranco
+- 👋 Hi, my name is André
 - 👨‍💻 I'm a Product Designer
-- 🌱 I’m currently learning te basics of the web development
+- 🌱 I’m currently learning the basics of the web development
 
 - 📫 You can reach me at <a href="https://andrecastelobranco.com">andrecastelobranco.com</a> 
 
